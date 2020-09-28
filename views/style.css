@@ -1,0 +1,831 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700,400');
+
+
+.dashboardwebcopy4 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100%;
+  min-height          : 750px;
+  position            : center;
+  overflow            : hidden;
+  margin              :0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : #F1F3F6;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+
+.dashboardwebcopy4 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 636px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .btnprimary{
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.dashboardwebcopy4 .btnprimary:hover {
+  background-color: #f44336;
+  color: white;
+}
+.dashboardwebcopy4 .btnprimary {
+  color:red;
+  border-color: red;
+  background-color    : white;
+  font-size: 12px;
+  border-radius      :5px;
+  top                 : 202px;
+  height              : 26px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  right               :1080px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+}
+.dashboardwebcopy4 .btnprimary:hover {
+  border-color: #f44336
+  color:white;
+}
+.dashboardwebcopy4 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 44px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 2px;
+  width               : 671px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .line2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 130px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 870px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .line2copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : 130px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  right               :1000px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .a23outof100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 215px;
+  height              : 11px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  right               : 850px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 11px;
+}
+.dashboardwebcopy4 .a7800mgbleft {
+  background-color    : rgba(255,255,255,0.0);
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 11px;
+  top                 : 215px;
+  height              : 11px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  right               : 600px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .a10000minutesleft {
+  background-color    : rgba(255,255,255,0.0);
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 11px;
+  top                 : 215px;
+  height              : 11px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  right               : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .roamingon {
+  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255,255,255,0.0);
+   font-family: Montserrat;
+  font-style: normal;
+  font-size:15px;
+  top                 : 145px;
+  height              : 11px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  right               : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .sms {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : 11px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  right               :875px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family: Montserrat;
+  font-style: normal;
+  font-size:14px;
+}
+.dashboardwebcopy4 .internet {
+  background-color    : rgba(255,255,255,0.0);
+   font-family: Montserrat;
+  font-style: normal;
+  font-size:15px;
+  top                 : 140px;
+  height              : 11px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  right               : 620px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .calls {
+  background-color    : rgba(255,255,255,0.0);
+   font-family: Montserrat;
+  font-style: normal;
+  font-size:15px;
+  top                 : 140px;
+  height              : 11px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 179px;
+  height              : 22px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  right               :810px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 179px;
+  height              : 22px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  right               : 540px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 25px;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  right               : 260px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+
+.dashboardwebcopy4 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 240px;
+  height              : 600px;
+  width               : 3800px;
+  position            : absolute;
+  margin              : 0;
+  right:-130%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+}
+.dashboardwebcopy4 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 380px;
+  height              : 350px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 260px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .group4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 380px;
+  height              :350px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 500px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .freeminutesclickh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 467px;
+  height              : 300px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .talkawholelotmor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 302px;
+  height              : 330px;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .unlimitedcallsfor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 380px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .yourconsumption {
+  background-color    : rgba(255,255,255,0.0);
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 15px;
+  top                 : 95px;
+  height              : 15px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                :320px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .controlsswitchon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  margin              : 0;
+  left                : 980px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.dashboardwebcopy4 .controlsswitchon input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2CAA9A;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+.dashboardwebcopy4 .hellozaz {
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : 18px;
+  width               : 150px;
+  position            : relative;
+  margin              : 0;
+  right               : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-weight: bold;
+}
+.dashboardwebcopy4 .a666769162 {
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 14px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  right               : 1110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-weight: bold;
+}
+.dashboardwebcopy4 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 32px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  right               : 1100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardwebcopy4 .line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 12px;
+  width               :1300px;
+  position            : relative;
+  margin              : 0;
+  right               :160px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+
+
+.logincopy {
+  width               : 100%;
+ /* min-width           : 100%;*/
+  min-width           : 800px;
+  min-height          : 750px;
+  height              : 100%;
+  /*min-height          : 636px;*/
+  position            : center;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgb(255, 255, 255);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.logincopy .rectangle {
+  background-color    :#F1F3F6;
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : relative;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.logincopy .logott {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 33px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.logincopy .line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : 1px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  right               : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.logincopy .loginnowtogeteas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 62, 62, 1.0);
+  text-align          : left;
+  line-height         : 46.0px;
+}
+.logincopy .forminputfieldfilled {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : 45px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  border              :none;
+  border-bottom       :2px solid grey;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.logincopy .forminputfieldfilledcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 320px;
+  height              : 55px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  border              :none;
+  border-bottom       :2px solid grey;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.logincopy .btnprimary {
+  background-color    : #2CAA9A;
+  color:#FFFFFF;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  top                 : 421px;
+  height              : 36px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  border-radius: 5px;
+}
+.logincopy .forgotyourpassword {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 418px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+  text-decoration     : underline;
+}
+.logincopy .pic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 380px;
+  width               : 490px;
+  position            : absolute;
+  margin              : 0;
+  left                : 760px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.logincopy .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 291px;
+  height              : 190px;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

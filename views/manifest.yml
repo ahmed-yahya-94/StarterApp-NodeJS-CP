@@ -1,0 +1,12 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: TunisiaTelecom
+  buildpack: sdk-for-nodejs
+  command: npm start
+  memory: 2GB
+  domain: mybluemix.net
+  host: TunisiaTelecom
+  services:
+    - guestbook-db-67208

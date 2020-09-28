@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="26px" viewBox="0 0 65 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="65" height="25" rx="3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn/primary">
+            <g id="btn_primary">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke="#E02020" x="0.5" y="0.5" width="64" height="24" rx="3"></rect>
+                <text id="logout" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="24" letter-spacing="0.428571429" fill="#E02020">
+                    <tspan x="4.94628571" y="13.1944444">LOGOUT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

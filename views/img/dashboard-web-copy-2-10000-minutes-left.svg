@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="11px" viewBox="0 0 84 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Montserrat-Regular, Montserrat" font-size="9" font-weight="normal">
+        <text id="10000-minutes-left">
+            <tspan x="0" y="9" fill="#3E3E3E">10000</tspan>
+            <tspan x="27.081" y="9" font-family="Montserrat-Italic, Montserrat" font-style="italic" fill="#A4A4A4"> minutes left</tspan>
+        </text>
+    </g>
+</svg>

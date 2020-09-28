@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="66px" viewBox="0 0 330 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="form/Input-field---Filled">
+            <rect id="bounds" x="0" y="0" width="330" height="66"></rect>
+            <g id="Border/1px" transform="translate(0.000000, 45.000000)" fill="#E0E0E0">
+                <rect id="1px_border_bottom_" x="0" y="0" width="330" height="1"></rect>
+            </g>
+            <text id="Hint-text" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="24" fill="#D8D8D8">
+                <tspan x="0" y="29">Your Number</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
